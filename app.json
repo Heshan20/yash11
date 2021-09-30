@@ -6,7 +6,7 @@
     "Youtube","YoutubeDownloader"
   ],
   "repository": "https://github.com/Bcoderx6",
-  "success_url": "https://t.me/YASH1029",
+  "success_url": "https://t.me/Dk_king_offcial",
   "website": "https://github.com/Bcoderx6",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
