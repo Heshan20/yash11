@@ -7,8 +7,13 @@ async def start(client, message):
     joinButton = InlineKeyboardMarkup([
         [InlineKeyboardButton("Channel", url="https://t.me/datamaruwa")],
         [InlineKeyboardButton(
-            "contact developer😊", url="https://t.me/Dk_king_offcial")]
-    ])
+
+"Join BOT ", url="https://t.me/Datamaruwoteambot")]
+
+   ])
+        [InlineKeyboardButton(
+"contact developer😊", url="https://t.me/Dk_king_offcial")]
+    ]) 
     welcomed = f"Hey <b>{message.from_user.first_name}</b>\n/help for More info"
     await message.reply_text(welcomed, reply_markup=joinButton)
     raise StopPropagatio
