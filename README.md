@@ -25,4 +25,4 @@
 
 *[Join Teligram group ](https://t.me/datamaruwa)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bcoderx6/yash11/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Heshan20/yash11.git)
